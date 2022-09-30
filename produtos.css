@@ -1,13 +1,16 @@
-<!DOCTYPE html>
-<html>
-		<head>
-			<meta charset="UTF-8">
-			<title>Produtos - Comitiva Harry</title>
+header {
+	background: #BBBBBB;
+}
 
-		</head>
-		<body>
-			<header>
-				<h1><img src="logo.png"></h1>
-		</body>
-</html>
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
 
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
